@@ -10,7 +10,7 @@
 // ==/UserScript==
 (function() {
     'use strict';
-    var css = ".hn-new-post { background: greenyellow; }";
+    var css = ".hn-new-post { background: skyblue; }";
     var style = document.createElement('style');
     style.type = 'text/css';
     style.appendChild(document.createTextNode(css));
